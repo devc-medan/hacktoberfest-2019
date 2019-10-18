@@ -1,18 +1,21 @@
 # Explode
 
-Explode berfungsi memisahkan string berdasarkan string. Output dari explode berupa array.   
-Misal: string "apa kabar dunia" ingin kita pisah berdasarkan spasi  
-
-## Contoh Program
+Explode berfungsi memisahkan string berdasarkan string dengan output berupa array.  
+### Deskripsi
 ```
-<?php
-    $str = "apa kabar dunia";
-    $arr = explode(" ",$str);
-    print_r($arr);
-?>
+explode ( string $delimiter , string $string [, int $limit = PHP_INT_MAX ] ) : array
 ```
 
-## Output
-```
-Array ( [0] => apa [1] => kabar [2] => dunia )
-```
+### Parameter  
+delimiter  
+&nbsp;&nbsp;string atau karakter pemisah  
+string  
+&nbsp;&nbsp;input string  
+limit  
+&nbsp;&nbsp;output array dikembalikan sejumlah limit yang sudah diset
+
+### Contoh Program
+`explode.php
+
+### Referensi
+[PHP Manual](https://www.php.net/manual/en/function.explode.php)
