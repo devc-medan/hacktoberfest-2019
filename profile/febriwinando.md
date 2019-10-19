@@ -1,6 +1,6 @@
 # Tentang
-Github : [Sastra Nababan](https://github.com/febriwinando)
-Facebook : [Sastra Nababan](https://www.facebook.com/febriwinando)
+Github : [Febri winando](https://github.com/febriwinando)
+Facebook : [febri winando](https://www.facebook.com/febriwinando)
 
 ### Lokasi
 Tanjung Selamat, Deli serdang
