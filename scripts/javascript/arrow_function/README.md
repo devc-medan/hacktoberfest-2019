@@ -4,23 +4,26 @@
 Arrow Function adalah salah fitur terbaru dari ES6. 
 Dengan Arrow Function, kita dapat menulis syntax function menjadi lebih singkat.
 
-### Sebelumnya
+### Tanpa Arrow Function
 
-hello = function() {
+let hello = function() {
   return "Hello World!";
 }
 
 ### Dengan Arrow Function
 
-hello = () => {
+let hello = () => {
   return "Hello World!";
 }
 
 ### Arrow Function tanpa parameter
 
-hello = () => "Hello World!";
+let hello = () => "Hello World!";
+
+### Arrow Function dengan parameter
+
+let hello = (val) => "Hello " + val;
 
 ### Arrow Function dengan satu parameter
 
-hello = (val) => "Hello " + val;
-
+let hello = val => "Hello " + val;
