@@ -13,7 +13,8 @@ Mikroskil
 - UI/UX
 
 ### Inspirational Quote
-> “Talk is cheap. Show me the code. - Linus Torvald
+> “That's the thing about people who think they hate computers. What they really hate is lousy programmers.”
+― Larry Niven
 
 ### Projects (Optional)
 - [Web Masjid](https://github.com/yazidkhan96/webmasjid)
