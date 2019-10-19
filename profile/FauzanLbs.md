@@ -12,4 +12,4 @@ Taman
 - Web and Mobile Development 
 
 ### Inspirational Quote
-> “if you can write "hello world" you can change the world
+> “if you can write "hello world", you can change the world

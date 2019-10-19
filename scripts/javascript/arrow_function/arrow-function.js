@@ -12,4 +12,4 @@ function funcName(params) {
 
 let funcName = (params) => params + 3
 funcName(3);
-// 4
+// 6
