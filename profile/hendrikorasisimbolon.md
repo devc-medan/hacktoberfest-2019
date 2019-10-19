@@ -13,3 +13,7 @@ Deli Serdang, Sumatera Utara, Indonesia
 
 ### Inspirational Quote
 > “Your future is created by what you do today, not tomorrow.” —Robert Kiyosaki
+
+
+### Projects (Optional)
+- [Project-Skripsi-Ecommerce](https://github.com/hendrikorasisimbolon/Project-Skripsi-Ecommerce) Project Skripsi dengan Bahasa pemograman Kotlin dan dimana servernya terpisah serta databasenya juga
