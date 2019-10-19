@@ -1,7 +1,7 @@
 
 # Arrow Function
 
-Promise adalah salah fitur terbaru dari ES6. Arrow Function menjadikan kita dapat menulis syntax function menjadi lebih singkat.
+Dengan Arrow Function, kita dapat menulis syntax function menjadi lebih singkat.
 
 ### Sebelumnya
 
