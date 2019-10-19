@@ -1,6 +1,7 @@
 
 # Arrow Function
 
+Arrow Function adalah salah fitur terbaru dari ES6. 
 Dengan Arrow Function, kita dapat menulis syntax function menjadi lebih singkat.
 
 ### Sebelumnya
