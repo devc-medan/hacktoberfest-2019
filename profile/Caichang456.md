@@ -9,3 +9,7 @@ Mikroskil
 
 ### Bidang yang di minati
 - Web 
+
+### Inspirational Quote
+> “Chess makes men wiser and clear-sighted.” – Vladimir Putin
+
