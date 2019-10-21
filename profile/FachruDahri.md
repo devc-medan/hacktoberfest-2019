@@ -12,5 +12,5 @@ Perpustakaan Daerah
 - Web Development 
 
 ### Inspirational Quote
->"You can never understand everything.But, you should push yourself to understand the system." -Ryan Dahl
+>"You can never understand everything.But, you should push yourself to understand the system." -Ryan Dahl (node.js)
 
