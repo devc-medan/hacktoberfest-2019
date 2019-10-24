@@ -3,28 +3,35 @@
 
 instance method adalah fungsi yang merupakan bagian dari kelas, dan bertindak atas instance kelas itu. contohnya kelas `BankAccount`:
 
-`class BankAccount {`
-    `constructor(owner, balance) {`
-        `this.owner = owner;`
-        `this.balance = balance;`
-   `}`
-`}`
+```javascript
+class BankAccount {
+    constructor(owner, balance) {
+        this.owner = owner;
+        this.balance = balance;
+   }
+}
+```
+
 
 kita dapat membuat instance dari kelas ini :
 `const newAccount = new BankAccount('Will Alexander', 500);`
 
 maka kita dapat membuat sebuah fungsi di dalam kelas untuk membuat format balance.
 
-`showBalance() {`
- `   console.log('Balance: ' + this.balance + ' EUR');`
-`}`
+```javascript
+showBalance() {
+    console.log('Balance: ' + this.balance + ' EUR');
+}
+```
 
 
 Ini berarti kita dapat menggunakan notasi titik pada instance newAccount untuk memanggil metode showBalance ()
 
-`const newAccount = new BankAccount('Will Alexander', 500);`
+```javascript
+const newAccount = new BankAccount('Will Alexander', 500);
 
-`newAccount.showBalance(); // prints 'Balance: 500 EUR' to the console`
+newAccount.showBalance(); // prints 'Balance: 500 EUR' to the console`
+```
 
 ### Menggunakan this Keyword
 
