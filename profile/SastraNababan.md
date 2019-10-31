@@ -14,5 +14,5 @@ DevC Medan
 ### Inspirational Quote
 > “Talk is cheap. Show me the code. - Linus Torvald
 
-### Projects (Optional)
+### Projects (Optional) 
 - [React Native Example Grocery App](https://github.com/SastraNababan/grocery-app)
